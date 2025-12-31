@@ -1,3 +1,19 @@
+# ushakiran.me
+
+Personal site for Ushakiran. Hosted at https://ushakiran.me
+
+## Features
+- SEO optimized for Google indexing
+- Sitemap and robots.txt included
+- Manifest for PWA support
+
+## Getting Started
+1. Clone the repo
+2. Install dependencies: `npm install`
+3. Run locally: `npm run dev`
+
+## Deployment
+Push to GitHub and connect your domain via Namecheap.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
